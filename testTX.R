@@ -1,6 +1,5 @@
 #Exploratory Texas Stuff
 #2018-02
-setwd("C:/Users/lr354/Desktop")
 
 rawdata<-read.csv("JNandMLMPAustHouDall.csv", header=T, colClasses=c("factor",  "factor", "numeric","numeric","numeric","numeric","numeric","numeric"))
 
